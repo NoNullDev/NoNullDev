@@ -1,6 +1,6 @@
 # Olá, meu nome é Giorge Lucas 👋
 
-## Sobre mim: 
+## Sobre mim
 Sou estudante e tenho 16 anos. Gosto de fazer diversos tipos de coisas, como assistir filmes e séries, jogar videogames, ler vários tipos de livros e, é claro, programar! Atualmente estou estudando front-end e back-end para me tornar um desenvolvedor full stack.
 
 ## 💻 Linguagens
