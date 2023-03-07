@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, meu nome é Giorge Lucas 👋
 
-<!--
-**NoNullDev/NoNullDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim: 
+Sou estudante e tenho 16 anos. Gosto de fazer diversos tipos de coisas, como assistir filmes e séries, jogar videogames, ler vários tipos de livros e, é claro, programar! Atualmente estou estudando front-end e back-end para me tornar um desenvolvedor full stack.
 
-Here are some ideas to get you started:
+## 💻 Linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoNullDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NoNullDev&show_icons=true&theme=radical)
+
+## 👀 Visitantes
+
+![Visitas no perfil](https://visitor-badge.glitch.me/badge?page_id=NoNullDev.NoNullDev)
